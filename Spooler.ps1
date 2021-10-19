@@ -11,7 +11,7 @@ $Xaml = @"
         <Button Content="OK" HorizontalAlignment="Left" Margin="135,17,0,0" VerticalAlignment="Top" Name="BOk"/>
         <Rectangle HorizontalAlignment="Center" Height="198" Margin="0,86,0,0" Stroke="Black" VerticalAlignment="Top" Width="319">
         <Rectangle.Fill>
-        <ImageBrush ImageSource="C:\Users\Davy\Documents\PowerShell\brother.jpg"/>
+        <ImageBrush ImageSource="D:\Outils IP\InstallSon\images\brother.jpg"/>
         </Rectangle.Fill>
 </Rectangle>
 </Grid>
